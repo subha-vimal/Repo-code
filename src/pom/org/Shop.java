@@ -12,6 +12,9 @@ public class Shop implements Interface3{
 
     public void book() {
 	System.out.println("notebook");	
+	System.out.println("notebook");
+	System.out.println("notebook");
+	System.out.println("notebook");
 }
 
 	public static void main(String[] args) {
@@ -26,7 +29,10 @@ public class Shop implements Interface3{
 	@Override
 	public void colour() {
 		System.out.println("red");
-	}
+		System.out.println("red");
+		System.out.println("red");
+		System.out.println("red");
+		}
 
 		
 
