@@ -5,7 +5,6 @@ public class Shop implements Interface3{
 	public void box() {
 	System.out.println("Black box");
 	System.out.println("box");
-	System.out.println("box");
 	System.out.println("pink box");
 	}
 
